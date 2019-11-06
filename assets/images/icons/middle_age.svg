@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="25px" viewBox="0 0 16 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="17.2-industry-content-copy-3" transform="translate(-240.000000, -1041.000000)" stroke="#C1C1C1" stroke-width="2">
+            <g id="Group-11" transform="translate(240.000000, 1042.000000)">
+                <path d="M13.212766,22.5106383 L2.44680851,22.5106383 L2.44680851,17.6620426 C2.44680851,16.0965745 3.19602128,14.6255532 4.462,13.7045745 L7.82978723,11.2553191 L11.1975745,13.7045745 C12.4635532,14.6255532 13.212766,16.0965745 13.212766,17.6620426 L13.212766,22.5106383 Z" id="Stroke-1"></path>
+                <path d="M2.44680851,0 L13.212766,0 L13.212766,4.84859574 C13.212766,6.41406383 12.4635532,7.88508511 11.1975745,8.80606383 L7.82978723,11.2553191 L4.462,8.80606383 C3.19602128,7.88508511 2.44680851,6.41406383 2.44680851,4.84859574 L2.44680851,0 Z" id="Stroke-3"></path>
+                <path d="M0,22.5106383 L15.6595745,22.5106383" id="Stroke-5"></path>
+                <path d="M0,0 L15.6595745,0" id="Stroke-7"></path>
+                <polyline id="Stroke-9" points="2.44680851 19.0851064 7.82978723 18.106383 13.212766 19.0851064"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

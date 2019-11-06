@@ -1,0 +1,44 @@
+.button-ghost {
+  background-image: none;
+  background-color: #FFFFFF;
+  color: #f79521;
+  border: 1px solid #f79521;
+}
+.button-ghost:hover {
+  opacity: 0.7;
+}
+.button-small {
+  width: 6.875rem;
+  height: 1.625rem;
+}
+.button-midd {
+  width: 8.125rem;
+  height: 1.875rem;
+}
+.button-disabled {
+  pointer-events: none;
+}
+.button-active {
+  background-color: #57bd64;
+  border: 1px solid #57bd64;
+  color: #FFFFFF;
+}
+.button-connect {
+  width: 5.063rem;
+  height: 1.438rem;
+  border: 1px solid #f5a623;
+  border-radius: 4px;
+}
+.close {
+  height: 1.25rem;
+  width: 1.25rem;
+  min-width: 1.25rem;
+  background-color: #efefef;
+}
+.feedback-cta {
+  width: 5.063rem;
+  height: 1.438rem;
+  border-radius: 4px;
+  min-width: 5.063rem;
+  max-width: 15.6875rem;
+}

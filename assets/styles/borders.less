@@ -1,0 +1,92 @@
+@import "variables";
+
+.border {
+  &-grey {
+    border: 1px solid @grey-border;
+  }
+  &-orange {
+    border: 1px solid @orange;
+    border-radius: 4px;
+  }
+  &-green {
+    border: 1px solid @green;
+    border-radius: 4px;
+  }
+  &--steps {
+    &-grey {
+      border: 1px solid @grey-border;
+    }
+    &-transparent {
+      border: 1px solid transparent;
+    }
+    &-red {
+      border: 1px solid @red;
+      &-imp {
+        border: 1px solid @red !important;
+      }
+    }
+    &-blue {
+      border: 1px solid @blue;
+      &-imp {
+        border: 1px solid @blue !important;
+      }
+    }
+  }
+  &-input-select {
+    border: 1px solid @grey-input;
+    border-radius: 0.25rem;
+  }
+  &--left {
+    &-grey {
+      border-left: 1px solid @grey-border;
+    }
+    &-red {
+      border-left: 2.5px solid @red;
+      &-imp {
+        border-left: 2.5px solid @red !important;
+      }
+    }
+    &-orange {
+      border-left: 1px solid @orange;
+      &-imp {
+        border-left: 2.5px solid @orange !important;
+      }
+    }
+  }
+  &--right {
+    &-grey {
+      border-right: 1px solid @grey-border;
+    }
+    &-grey-input {
+      border-right: 1px solid @grey-input;
+    }
+    &-orange {
+      border-right: 1px solid @orange;
+    }
+  }
+  &--top {
+    &-grey {
+      border-top: 1px solid @grey-border;
+    }
+    &-grey-light {
+      border-top: 1px solid @grey-light;
+    }
+  }
+  &--bottom {
+    &-grey-light {
+      border-bottom: 1px solid @grey-light;
+    }
+    &-grey {
+      border-bottom: 1px solid @grey-border;
+    }
+    &-grey-dark {
+      border-bottom: 1px solid @grey-dark;
+    }
+    &-red {
+      border-bottom: 2px solid @red;
+    }
+  }
+  &--error {
+    border: 1px solid @red!important;
+  }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 14.7118776 14.6938776 14.7118776 14.6938776 -6.12244898e-05 0 -6.12244898e-05"></polygon>
+    </defs>
+    <g id="Page-1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="12.1-Data-Vault-Copy-6" transform="translate(-733.000000, -23.000000)">
+            <g id="Group-9" transform="translate(734.000000, 24.000000)">
+                <polygon id="Stroke-1" stroke="#F99E31" points="14.3877551 3.99759184 0.306122449 3.99759184 0.306122449 2.77310204 7.34693878 0.324122449 14.3877551 2.77310204"></polygon>
+                <path d="M14.3877551,14.4057551 L0.306122449,14.4057551 L0.306122449,13.1812653 C0.306122449,12.5050408 0.854387755,11.9567755 1.53061224,11.9567755 L13.1632653,11.9567755 C13.8394898,11.9567755 14.3877551,12.5050408 14.3877551,13.1812653 L14.3877551,14.4057551 Z" id="Stroke-3" stroke="#F99E31"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-6"></g>
+                <polygon id="Stroke-5" stroke="#F99E31" mask="url(#mask-2)" points="2.14285714 11.9567755 3.97959184 11.9567755 3.97959184 3.99759184 2.14285714 3.99759184"></polygon>
+                <polygon id="Stroke-7" stroke="#F99E31" mask="url(#mask-2)" points="6.42857143 11.9567755 8.26530612 11.9567755 8.26530612 3.99759184 6.42857143 3.99759184"></polygon>
+                <polygon id="Stroke-8" stroke="#F99E31" mask="url(#mask-2)" points="10.7142857 11.9567755 12.5510204 11.9567755 12.5510204 3.99759184 10.7142857 3.99759184"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
