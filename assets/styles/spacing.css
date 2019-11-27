@@ -161,6 +161,9 @@
 .margin-xxl--bottom-10 {
   margin-bottom: 0.625rem;
 }
+.margin-xxl--bottom-9 {
+  margin-bottom: 0.563rem;
+}
 .margin-xxl--bottom-8 {
   margin-bottom: 0.5rem;
 }
@@ -581,7 +584,7 @@
     padding-right: 2.5rem;
   }
 }
-@media only screen and (max-width: 550px) {
+@media screen and (max-width: 550px) {
   .margin--s-top-18 {
     margin-top: 1.1125rem;
   }
@@ -590,6 +593,9 @@
   }
   .margin--s-top-none {
     margin-top: 0;
+  }
+  .margin--s-bottom-40 {
+    margin-bottom: 2.5rem;
   }
   .margin--s-bottom-none {
     margin-bottom: 0;
