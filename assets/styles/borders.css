@@ -76,3 +76,6 @@
 .border--error {
   border: 1px solid #bd202e !important;
 }
+.border--error :focus {
+  border-color: #f79521 !important;
+}
